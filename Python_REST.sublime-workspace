@@ -1,0 +1,523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"username_mapping"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"ne",
+				"new_ticket"
+			],
+			[
+				"Chekc",
+				"CheckinHistory"
+			],
+			[
+				"for",
+				"ForeignKey"
+			],
+			[
+				"Fe",
+				"ForeignKey"
+			],
+			[
+				"Guest",
+				"GuestPaymentForm"
+			],
+			[
+				"paid_",
+				"paid_by"
+			],
+			[
+				"Tab",
+				"table_num"
+			],
+			[
+				"he",
+				"help_text"
+			],
+			[
+				"Tick",
+				"TicketAssignmentHistory"
+			],
+			[
+				"range",
+				"range_end"
+			],
+			[
+				"tickets",
+				"tickets_processed"
+			],
+			[
+				"assigned",
+				"assigned_to"
+			],
+			[
+				"aut",
+				"auto_now"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"Assi",
+				"AssignmentForm"
+			],
+			[
+				"fo",
+				"ForeignKey"
+			],
+			[
+				"i",
+				"integer"
+			],
+			[
+				"ass",
+				"assigned_to"
+			],
+			[
+				"pre",
+				"pre_save_guest_receiver"
+			],
+			[
+				"get_",
+				"get_context_data"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"ticket",
+				"ticket_num"
+			],
+			[
+				"ticke",
+				"ticket_assignment"
+			],
+			[
+				"r",
+				"render"
+			],
+			[
+				"Pub",
+				"Publisher"
+			],
+			[
+				"Brother",
+				"Brother"
+			],
+			[
+				"Publisher",
+				"PublisherForm"
+			],
+			[
+				"Pu",
+				"PublisherUpdate"
+			],
+			[
+				"table",
+				"tablenum"
+			],
+			[
+				"guest",
+				"guest"
+			],
+			[
+				"ticketmgt",
+				"ticketmgt_urls"
+			],
+			[
+				"lodge",
+				"lodgebro_urls"
+			],
+			[
+				"te",
+				"TextField"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"select",
+				"selected_choice"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"contact",
+				"contact_urls"
+			],
+			[
+				"tag",
+				"tag_urls"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Brian/Documents/dev/Python REST Project/app.py",
+		"/C/Users/Brian/Documents/dev/test/app.py",
+		"/C/Users/Brian/Documents/dev/Assets/item_crud_api.py",
+		"/C/Users/Brian/Documents/dev/user.py",
+		"/C/Users/Brian/Documents/dev/security.py",
+		"/C/Users/Brian/Documents/dev/test/item.py",
+		"/C/Users/Brian/Documents/dev/restful_api_2.py",
+		"/C/Users/Brian/Documents/dev/test/security.py",
+		"/C/Users/Brian/Documents/dev/test/user.py",
+		"/C/Users/Brian/Documents/dev/test/create_table.py",
+		"/C/Users/Brian/Documents/dev/test_sqlite2.py",
+		"/C/Users/Brian/Documents/dev/create_tables.py",
+		"/C/Users/Brian/Documents/dev/GIT user.py",
+		"/C/Users/Brian/Documents/dev/restful_api _2.py",
+		"/C/Users/Brian/Documents/dev/security.py-old sec 4.py",
+		"/C/Users/Brian/Documents/dev/user.py-old.py",
+		"/C/Users/Brian/Documents/dev/test_sqlite 2.py",
+		"/C/Users/Brian/Documents/dev/test_sqllite.py",
+		"/C/Users/Brian/Documents/dev/playing.py",
+		"/C/Users/Brian/Documents/dev/FirstWebApp.py",
+		"/C/Users/Brian/Documents/dev/templates/index.html",
+		"/C/Users/Brian/Documents/dev/storeapp.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/settings.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/urls.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/manage.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/wsgi.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/dockerfile",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/docker-compose.yml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/requirements.txt",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/requirements 2.txt",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/views.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/models.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/guest_base.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/guest_list.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/guest_detail.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/models 2.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/models 3.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/urls 2.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/views 2.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/ticket_base.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/home.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/forms.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/checked_in.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/views 5.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/views 4.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/man_checkin.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/arrive.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/ticket_list.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/table_list.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/checkin.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/forms 2.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/base.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/base.css",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/arrive 2.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/ticket_update.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/assign_tickets.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/guest_payment_form.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/ticket_assignment_list.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/urls 4.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/bro_payment_form.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/forms 3.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/ticket_detail.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/table_base.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/urls 5.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/table_detail.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/about.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/contact.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/bro_payment_list.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/utils.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/table_update.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/table_confirm_delete.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/table_form.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/guest_payment_list.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/payment_base.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/datetimepicker.css",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/payment_list.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/payment_form.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/datetimepicker 2.css",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/date_test.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/base.html.working",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/fixed_navbar.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/views 3.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/brother_confirm_delete.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/splash.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/offcanvas.js",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/views 6.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/admin 4.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/admin 3.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/models 5.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/guest_form.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/admin 2.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/admin.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/brother_list.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/validators.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/confirm_assignment.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/pagination 2.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/pagination.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/favicon.ico",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/assign_ticket.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/brother_form.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/guest_detail 2.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/logout.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/guest_list.html.b4table",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/guest_confirm_delete.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/guest_update.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/mason-wallpaper.jpg",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/urls 3.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/startup_detail.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/fixed_navbar.html.bu1226",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/home.html.buworking",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/carousel.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/Shriners_2016-58.jpg",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/brother_detail.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/middleware_process_request.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/filters.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/tags.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/decorators 2.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/decorators.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/settings 2.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/user_create_done.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/publisher_list.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/0002_post_data.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/0003_startup_data.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/apps.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/base 2.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/utils 2.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/tests.py",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/base_user.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"object",
+			"650",
+			"some",
+			"form",
+			"table",
+			"kwarg",
+			"brother",
+			"payment_list",
+			"color",
+			"CE3030",
+			"eeeeee",
+			"CE3030",
+			"eeeeee",
+			"CE3030",
+			"eeeeee",
+			"color",
+			"prev",
+			"jquery",
+			"favicon",
+			"ticket",
+			"spy",
+			"email",
+			"log",
+			"lo",
+			"publisher",
+			"Publisher",
+			"publisher",
+			"Publisher",
+			"publisher",
+			"Brother",
+			"brother",
+			"Brother",
+			"Publisher",
+			"publisher",
+			"form",
+			"site",
+			"table",
+			"guest",
+			"brother",
+			"broth",
+			"organ",
+			"startup",
+			"Ticket",
+			"ticket",
+			"Ticket",
+			"ticket",
+			"dj"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ticket",
+			"table",
+			"CE3030",
+			"guest",
+			"Guest",
+			"guest",
+			"Guest",
+			"Ticket",
+			"ticket",
+			"Guest",
+			"guest",
+			"Guest",
+			"Ticket",
+			"ticket",
+			"Guest",
+			"guest",
+			"brother",
+			"Brother",
+			"Table",
+			"table"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Python_REST.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
